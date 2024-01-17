@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zeynep.</h1>
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zeyneparslanj&label=Profile%20views&color=0e75b6&style=flat" alt="zeyneparslanj" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyneparslanj&label=Profile%20views&color=0e75b6&style=flat" alt="zeyneparslanj" /> </p>
 <img align="center" alt="Coding" width="350" src="https://media2.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif?cid=ecf05e47gkvxhlb5imqmz[…]23idffi9qqvw1q7f0l6cda&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 <img align="center" alt="Coding" width="350" src="https://media3.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif?cid=ecf05e476dstg9j7xjcd7[…]s9lbgkc1luj2tt13nzp5dz&ep=v1_gifs_related&rid=giphy.gif&ct=g">
 
