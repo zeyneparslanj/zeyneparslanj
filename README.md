@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyneparslanj&label=Profile%20views&color=0e75b6&style=flat" alt="zeyneparslanj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/102985224/211582827-8fd748d6-9181-4c5f-a620-76168b861a4d.gif">
+<img align="center" alt="Coding" width="400" src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif">
 
 - 🌱 I’m currently learning **HTML,Css, JavaScript, Python**
 
