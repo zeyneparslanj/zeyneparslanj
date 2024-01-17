@@ -4,7 +4,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zeyneparslanj&label=Profile%20views&color=0e75b6&style=flat" alt="zeyneparslanj" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="center" alt="Coding" width="400" src="https://gteches.com/wp-content/uploads/2023/05/Full-Stack-3.gif">
+<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/e0/58/ee/e058eecc0652ff38a4e7062cfcf08c9d.gif
+">
 
 - 🌱 I’m currently learning **HTML,Css, JavaScript, Python**
 
@@ -21,4 +22,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zeyneparslanj&show_icons=true&locale=en" alt="zeyneparslanj" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zeyneparslanj&" alt="zeyneparslanj" /></p>
-
